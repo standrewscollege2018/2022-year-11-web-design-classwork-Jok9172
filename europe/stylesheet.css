@@ -1,0 +1,25 @@
+
+* {
+margin: 0px;
+padding: 0px;
+}
+body {
+  background-color: rgb(69,96,255)
+}
+color: red;
+.navbar{
+  background-color: green
+}
+
+.container{
+  display:grid;
+  grid-template-columns: 1fr 2fr;
+}
+.left-content{
+  background-color: blue;
+}
+
+.right-content{
+  background-color: pink;
+  text-align: right;  
+}
