@@ -4,7 +4,7 @@ margin: 0px;
 padding: 0px;
 }
 body {
-  background-color: rgb(69,96,255)
+  background-color: rgb(255,102,244)
 }
 color: red;
 .navbar{
@@ -21,5 +21,40 @@ color: red;
 
 .right-content{
   background-color: pink;
-  text-align: right;  
+  text-align: right;
+}
+
+
+
+.content-container {
+
+display: grid;
+
+grid-template-columns: repeat(3, 1fr);
+
+grid-column-gap: 20px;
+
+margin-top: 40px;
+}
+
+.card {
+  border: 1px solid rgba(12,34,56);
+  border-radius: 20px;
+  overflow: hidden;
+  background-color: rgb(255, 0, 0);
+}
+.card > img{
+  max-width: 100%;
+  height:auto;
+}
+h1{
+  text-align: center;
+}
+p{
+  text-align: center;
+}
+
+img{
+  max-width: 100%;
+  height:auto;
 }

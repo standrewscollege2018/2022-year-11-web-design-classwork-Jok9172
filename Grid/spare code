@@ -1,0 +1,85 @@
+
+<!-- Content area -->
+<div class="content-container">
+<!-- Cards -->
+  <div class="card">
+  <p>some text</p>
+  </div>
+  <div class="card">
+  <p>some more text`</p>
+  <p></p>
+  </div>
+  <div class="card">
+  <p>some text</p>
+  </div>
+</div>
+
+
+
+
+
+<div class="nav_bar">Link 1 | Link 2 | Link 3</div>
+<!-- main content -->
+<div class="container">
+<!-- left hand text -->
+  <div class="left-content">something about digi tech</div>
+<!-- right hand text -->
+  <div class="right-content">something else about digi tech</div>
+  <div class="container">
+  <div class="card">
+  Content
+  </div>
+  <div class="card">
+  Content
+  </div>
+  Etc
+  Etc
+  Etc
+  </div>
+
+
+
+
+
+
+    <!-- nav bar -->
+      <div class="nav_bar">Link 1 | Link 2 | Link 3</div>
+  <!-- main content -->
+      <div class="container">
+  <!-- left hand text -->
+        <div class="left-content">something about digi tech</div>
+  <!-- right hand text -->
+        <div class="right-content">something else about digi tech</div>
+        <div class="container">
+        <div class="card">
+        Content
+        </div>
+        <div class="card">
+        Content
+        </div>
+        Etc
+        Etc
+        Etc
+        </div>
+
+
+
+        </div><!-- container -->
+  </body>
+  </html>
+
+
+
+  <h1>Italy</h1>
+<img src="photos/italy.jpg" alt="waterloo I WAS DEFEATED YOU WON THE WAR">
+  <p>We struck Italy in the middle of a heatwave, yet still loved exploring the famous sights.</p>
+  <<a href="italy.html">view italy now</a>
+  <h1>greese</h1>
+<img src="photos/Greece.jpg" alt="this is painful">
+  <p>Greece was our first major trip away, and after a cold half-term in England we were happy to get to the much milder climate of Greece!</p>
+  <h1>France</h1>
+<img src="photos/france_night_display.jpg" alt="ahhh we we baugette">
+  <p>France in the middle of one of its hottest summers on record when we visited</p>
+  <h1>UK</h1>
+<img src="photos/brexit.webp" alt="Brexit means Brexit">
+  <p>Living just north of London was perfect, as we were close enough to train into London for the day, but also had easy access to the M1 and M25. We could easily drive anywhere, and also had a train line passing directly through the town.</p>
